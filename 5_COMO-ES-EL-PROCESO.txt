@@ -1,0 +1,33 @@
+El proceso de Design thinking consiste en 5 etapas divididas en dos partes:
+
+1 y 2: Encontrar problemas.
+3, 4, 5: Pensar soluciones.
+ENCONTRAR PROBLEMAS: 
+1 - Empatizar con el usuario. El sistema de convergencia nos dice que debemoss explorar todo el contexto. Usamos metodologias cualitativas de investigación
+
+Concreto  | *Test MVP *Focus Group *A/B Test 
+          |                       *Analytics
+          | *Entrevistas en profundidad * Eye-Track
+Abstracto |__________________________
+           Cualitativo   Cuantitativo
+EL CÍRCULO DE ORO
+
+___WHAT
+____HOW
+_____WHY ===> POR QUÉ: Necesidad detectada.
+ 2 - Detectar oportunidades. Sumergirte en los resultados.
+ Hechos: Datos relevantes para entender el contexto o al usuario 
+ Pain points: Puntos de dolor o situaciones no deseadas
+ Bliss points: Puntos de felicidad o situaciones deseadas
+ Workarounds: Soluciones informales a problemas 
+ Dilemas: Cuando se desean dos cosas que parecen incompatibles
+ Dilemas: Cuando se desean dos cosas que parecen incompatibles
+ Ideas: Soluciones que los usuarios proponen
+ "Diseños pensados en el usuario, no significa que sea personalizado"
+
+ SOLUCIONES:
+ 
+ 3 - Generar Ideas. Aquí hay que ser creativos, usar el pensamieento lateral, pensar fuera de la caja
+Una lluvia de ideas, es productiva, si partes de una pregunta que intente resolver los problemas de tus usuarios.
+4 - Hacer ideas tangibles. Selecciona la que tenga mejor propuesta de valor y conviertela en un prototipo. Intenta experimentar, fallar lo antes posible, para entender donde están los puntos de mejora "Falla rápido, falla barato"
+5 - Co - Creación con los usuarios. Lo hacemos participe del diseño y testeamos nuestro prototipo, su feedback nos llevara neuvamente a comenzar el proceso en una interación de prueba y error permanente, que perfecciona resultados de esta metodologia, seremos menos propensos a fallar si trabajamos de cerca con el usuario.
