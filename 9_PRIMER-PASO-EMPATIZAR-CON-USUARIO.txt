@@ -1,0 +1,23 @@
+El primer paso para empatizar es identificar quién es tu usuario objetivo: 
+"Muchas veces los procesos de creación funcionan a la inversa, diseñamos productos y servicios que suponemos le hacen falta a alguien y luego buscamos un cliente para crearle esa necesidad."
+
+"No existe nada más inútil que crear con eficiencia un producto que no debería haber sido producido" -Peter Drucker-
+
+Los procesos de creación suelen funcionar al contrario, primero diseñan un producto y luego esperan que haya alguien que lo use.
+
+
+¿Cómo identificamos la necesidad? 
+Hay cosas que son inmediatamente visibles y otras más profundas, como un iceberg. 
+QUÉ = QUÉ HACEMOS. (VISIBLE EN EL ICEBERG)
+-QUÉ nos permite trabajar: 
+--Caracteristicas del producto.
+CÓMO = COMO LO HACEMOS. (OCULTO EN EL ICEBERG)
+-CÓMO nos permite trabajar:
+--Experiencia de uso.
+POR QUÉ = POR QUÉ LO HACEMOS ASÍ. (OCULTO EN EL ICEBERG)
+-POR QUÉ nos permite trabajar:
+--Utilidad vinculada a la necesidad.
+Son las preguntas que debes hacerte, y siempre empezar por lo oculto y las cuestiones más profundas.
+
+"El usuario va a aceptar un cambio de caracteristicas y de experiencias siempre que esto le posibilite alcanzar mejor su utilidad."
+
