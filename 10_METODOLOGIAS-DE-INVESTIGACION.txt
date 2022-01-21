@@ -21,9 +21,11 @@ Siempre hay que entrevistar a un grupo hasta la saturación teórica.
 TABLA.
 EJE Y. 0 A 12 (PERSONAS)
 EJE X. 0 A MUCHOS (HALLAZGOS/APRENDIZAJES)
+El fin es tratar de encontrar Patrones.
 EN QUE PARTE DEL PROCESO UTILIZAR CADA METODO DE INVESTIGACIÓN
 
 Fase inicial:
 -La entrevista a profundidad es la mas usada en nivel abstracto y cualitativo. El nivel abstracto se entiende como el estado de desconocimiento de quien es mi cliente.
 
 -El MVP por el contrario, se mira como la fase inicial concreto y cualitativo, a este se le puede aplicar el Metodo del Testeo para entender quien es mi cliente.
+
