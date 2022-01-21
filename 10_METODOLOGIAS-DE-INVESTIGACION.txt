@@ -1,0 +1,29 @@
+En esta etapa vamos a investigar de manera cualitativa a nuestros usuarios.
+
+1- Observar al usuario. Esta primera técnica es simple, pero te permite participar y ver su comportamiento.
+2- Ser el usuario. Es una técnica en la que el usuario no sabe que está siendo observado. Te permite ver la experiencia de la manera más cercana a la realidad.
+3- Hablar con el usuario. Estas son las entrevistas en profundidad. Las entrevistas permiten conocer el por qué mucho más a fondo que la simple observación. No es una encuesta, emula una conversación en la que el usuario se sienta cómodo.
+
+Comienza por entrevistar a los usuarios extremos, por ejemplo un usuario ocasional y uno muy constante. Cuando vas a los extremos intentas contemplar a la totalidad de los usuarios.
+
+Continua con los expertos. Personas que ya tengan experiencia y que te ayuden a entender el insight que estás encontrando en las entrevistas.
+
+¿A cuántas personas entrevistar?
+
+En la metodología cualitativa lo importante es entrevistar hasta que llegues al punto de saturación teórica, es decir hasta que encuentres patrones en las respuestas.
+
+¿A quien entrevistar?
+Una vez que identificamos a nuestro USUARIO OBJETIVO:
+1. Usuarios Extremos: En el ejemplo de re-diseñar la experiencia de viaje en una aerolínea, los usuarios extremos serían por ejemplo quien viaja frecuentemente y quien viaja por primera vez.
+2. Figura de experto: Digamos que ya hemos identificado a nuestro usuario objetivo, pero ahora no sabemos como convertirlo, y digamos que necesitamos preguntarle a un experto en marketing digital, es allí a donde aplica la entrevista a expertos.
+¿A cuantas personas entrevistar?
+Siempre hay que entrevistar a un grupo hasta la saturación teórica.
+TABLA.
+EJE Y. 0 A 12 (PERSONAS)
+EJE X. 0 A MUCHOS (HALLAZGOS/APRENDIZAJES)
+EN QUE PARTE DEL PROCESO UTILIZAR CADA METODO DE INVESTIGACIÓN
+
+Fase inicial:
+-La entrevista a profundidad es la mas usada en nivel abstracto y cualitativo. El nivel abstracto se entiende como el estado de desconocimiento de quien es mi cliente.
+
+-El MVP por el contrario, se mira como la fase inicial concreto y cualitativo, a este se le puede aplicar el Metodo del Testeo para entender quien es mi cliente.
