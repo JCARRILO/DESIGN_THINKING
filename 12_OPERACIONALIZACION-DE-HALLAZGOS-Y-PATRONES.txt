@@ -1,0 +1,26 @@
+En esta clase pasaremos a detectar oportunidades, aunque todavía estamos en la fase de encontrar el problema. 
+Es un error común intentar proponer soluciones en este punto, pero recuerda que aún estamos más atrás.
+
+Toda la información recolectada en etapas anteriores será utilizada ahora para encontrar un significado más profundo. Aquí vamos a empezar a identificar patrones de conductas sociales, con los que más adelante si se va a poder trabajar en una solución para todos.
+
+Operacionalizar la información
+Este concepto pretende tomar la información cualitativa y trabajar con ella de manera metódica. Para hacer esto están los siguientes pasos:
+
+Compartir hallazgos.
+Ordenar los hallazgos en: hechos, puntos de dolor, puntos de felicidad, atajos / hacks o soluciones informales, dilemas e ideas.
+
+ETAPA: Detectar Oportunidades.
+Transformar las historias en OPORTUNIDADES DE INNOVACIÓN.
+Las observaciones, visitas de campo, o una entrevista en profundidad pueden servir para encontrar un significado más profundo y oportunidades de diseño accionables, pero esto no es una tarea sencilla.
+-Hay que identificar PATRONES DE CONDUCTA.
+--"Si mi vida dependiera de soluciionar un problema, y tuviera una hora para hacerlo, gastaría los primeros 55 minutos en DETERMINAR LA PREGUNTA CORRECTA para hacer, para poder responderla en menos de 5 minutos" -Albert Einstein-
+¿CÓMO OPERACIONALIZAR LA INFORMACIÓN?
+En DT los equipos trabajan juntos, son holocráticos, trabajan y comparten todos estos trabajos.
+-1. Sumergirte en los resultados.
+--Hechos: Datos relevantes para entender el contexto o al usuario.
+--Pain points: Puntos de dolor o situaciones no deseadas.
+--Bliss points: Puntos de felicidad o situaciones deseadas.
+--Workarounds: Soluciones informales a problemas actuales.
+--Dilemas: Cuando se desean dos cosas que parecen incompatibles.
+--Ideas: Soluciones que los usuarios proponen.
+
