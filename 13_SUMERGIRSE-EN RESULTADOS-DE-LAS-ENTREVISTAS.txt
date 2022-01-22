@@ -1,0 +1,9 @@
+Una vez tenemos la información clasificada por colores, con los tipos de hallazgos podemos pasar a bajar las entrevistas y unificar las variables de diferentes entrevistas en una sola tabla. Al ver la información organizada de esta forma se hace más fácil encontrar patrones y puntos comunes.
+TABLA.
+BAJADA DE ENTREVISTAS 
+Nombre del entevistado:
+Descripcion del entrevistado:Ej, Edad, Profesion, Cargo, Por qué lo eligieron? Perfil de usuario extremo. Si es interno o externo a la empresa, etc.
+Duracion de la entrevista:
+BAJADA DE OBSERVACIONES 
+
+QUEDAN ARCHIVOS DONDE PUEDES VERIFICAR TABLAS DE BAJADA DE ENTREVISTAS Y BAJADA DE OBSERVACIONES.
