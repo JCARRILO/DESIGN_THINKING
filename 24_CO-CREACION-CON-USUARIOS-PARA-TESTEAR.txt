@@ -1,0 +1,37 @@
+Una vez armado el prototipo debemos salir a probarlo con usuarios.
+
+La co creación con usuarios genera valor en las personas y garantiza el éxito de la idea.
+
+"El diseño en ausencia de contenido no es diseño, es decoración" -Jeffrey Zeldman- 
+
+Cuando diseñamos un producto nos podemos acercar a la propuesta de valor, sin embargo cuando nos encontramos con la experiencia de usuario podemos mejorarla.
+
+¿CÓMO TESTEAR?
+Hay dos formas de testear: de manera presencial o a distancia.
+
+Herramientas presenciales:
+
+Sesiones individuales
+Sesiones grupales, o focus groups
+A/B testing, probar dos productos a la vez
+Testeos de usabilidad
+Herramientas a distancia:
+
+Encuestas
+User testing
+Muestra chica
+Crowdfunding
+
+TIPS DEL TESTEO 
+1. Dejar que el usuario sea el experto.
+2. Pedir que nos narren el proceso. 
+3.Mostrame (Shoew Me) 
+4. Seguir preguntando por qué. 
+5. Documentar el Feedback.
+6. Tener una buena muestra. Mala muestra de participantes = Mala información.
+7.Detectar la necesidad del Feedback. Pienso - siento -Digo - Hago.
+
+A veces en la vida todo funciona bien.
+Y a veces ocurren imprevistos.
+Lo importante es saber reaccionar.
+Transformando los problemas en oportunidades.
