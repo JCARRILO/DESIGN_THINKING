@@ -1,0 +1,12 @@
+¿Cómo hacer un buen prototipo?
+
+1. Comprender a mi audiencia y el propósito: Si basamos el prototipo en un solo usuario, quiere decir que estamos personalizando el prototipo. Al construir el prototipo si debemos tener claro que esta dirigido a perfiles parecidos a quien se penso inicialmente.
+2. Prototipar solo lo esencial: Que las personas entiendan lo esencial.
+3. Valorar las imperfecciones: 
+No importa que se vea feo, hace parte de fallar rapido y barato.
+4.Considera múltiples alternativas, haz A/B testing: Mide así, las posibles versiones de tu modelo.
+5. Cuida los recursos (tiempo y dinero): Nuevamente fallar rápido y barato es importante, porque te ayudara a ahorrar dinero.
+6. Sé ágil, falla rápido y barato
+
+¿QUE PUEDE PROTOTIPARSE? 
+Todo puede prototiparse: productos, interfaces, aplicaciones, experiencias, espacios.
